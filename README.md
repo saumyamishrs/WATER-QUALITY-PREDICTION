@@ -1,39 +1,16 @@
-# 💧 Water Quality Prediction - Week 1
+# 💧 Water Quality Prediction - Week 2
 
-This project aims to predict whether water is potable (safe to drink) using machine learning based on various physicochemical properties of water.
+This project aims to predict the potability of water based on various physicochemical properties using machine learning.
 
-This Week 1 submission includes:
-- Dataset collection
-- Exploratory Data Analysis (EDA)
-- Data cleaning and preprocessing
-- Project structure and documentation
-- A main script to run basic data processing
+## ✅ Week 2 Progress
+- Trained Logistic Regression and Random Forest models.
+- Evaluated using accuracy and confusion matrix.
+- Saved best model for later use.
+- Project is now ready for hyperparameter tuning and deployment.
 
-## 📊 Dataset
-Source: [Kaggle - Water Potability Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
-Target Variable: `Potability` (0 = Not Safe, 1 = Safe)
-
-## 🧪 Tools & Libraries
-- Python
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-
-## 🏃 How to Run
-```bash
-pip install -r requirements.txt
-python main.py
-```
-
-## 📁 Folder Structure
-- `data/`: Contains the dataset
-- `notebooks/`: Jupyter notebook with EDA
-- `src/`: Python scripts
-- `README.md`: Project overview
-- `requirements.txt`: Python packages
-
-## 🚀 Author
-**Saumya Mishra**
-(One Month Internship Project)
+## 🏗️ Folder Structure
+- `data/`: Contains dataset
+- `notebooks/`: Jupyter notebooks (EDA & model training)
+- `src/`: Python scripts (preprocessing, model training)
+- `models/`: Trained model files
+- `WEEK2_Report.md`: Summary of Week 2 work
