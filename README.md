@@ -1,4 +1,3 @@
-Bilkul bhai! Neeche ek **professional aur attractive content** de raha hoon jo tumhare **Water Quality Prediction** project ke `README.md` file ke liye perfect hoga. Isme **project ka overview, features, technology stack, setup instructions, and usage** sab kuch diya gaya hai:
 
 ---
 
@@ -88,5 +87,4 @@ This is an academic project and not intended for real-time medical or health-rel
 
 ---
 
-Agar tum presentation file ya PDF bhi bana rahe ho toh is content ka chhota version usme bhi daal sakte ho.
-Kuch specific line ya feature add karwana ho toh bata dena bhai.
+
